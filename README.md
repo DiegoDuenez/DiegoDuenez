@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 - 🔭 I’m currently working on web development.
 - 🌱 I’m currently learning web technologies.
-- 💬 Ask me about [topics you’re knowledgeable about].
-- 📫 How to reach me: [your contact information, e.g., email or LinkedIn].
+- 💬 Ask me about web development.
 - ⚡ Fun fact: [a fun fact about yourself].
 
 ## 💻 Technologies & Tools
