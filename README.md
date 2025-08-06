@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning web technologies.
+- 🔭 I’m currently working on software development.
+- 🌱 I’m currently learning new technologies.
 - 💬 Ask me about web development.
-- ⚡ Fun fact: [a fun fact about yourself].
+- ⚡ Fun fact: I LOVE PHP
 
 ## 💻 Technologies & Tools
 
