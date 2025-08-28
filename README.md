@@ -1,4 +1,4 @@
-# Hi there, I'm Diego Duenez! 👋
+# Hi there, I'm Diego Dueñez! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development.
 
